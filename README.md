@@ -9,6 +9,7 @@
 
 
 > 把Source目录放在和项目index.php平齐的目录下
+> 
 > 访问Source目录下的index.php会显示安装页面，按步骤填写数据库配置安装即可
 > 
 
